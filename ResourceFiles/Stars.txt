@@ -1,0 +1,11 @@
+Star10 Constellation6 1 1 11
+Star6 Constellation3 2 2 12
+Star1 Constellation7 11 12 12
+Star5 Constellation2 -2 -5 16
+UpdatedName Constellation1 -99 11 21
+Star3 Constellation5 2 -5 21
+Star8 Constellation7 55 55 55
+Star2 Constellation4 11 33 68
+Star4 Constellation6 1 0 79
+Star9 Constellation7 12 1 109
+Star11 Constellation1 1 1 111
